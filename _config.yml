@@ -2,6 +2,6 @@ title: Hackathon Demo
 email: lupodc@dc.local
 description: > # this means to ignore newlines until "baseurl:"
   Sharpen your coding skills in this hackathon.
-url: "https://lupodc.github.io/ghedu-pages-Jekyll"
+url: "https://lupodc.github.io/ghedu-pages-jekyll"
 github_username:  lupodc
-baseurl: /ghedu-pages-Jekyll
+baseurl: /ghedu-pages-jekyll
