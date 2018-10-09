@@ -1,0 +1,8 @@
+title: Hackathon Demo
+email: lupodc@dc.local
+description: > # this means to ignore newlines until "baseurl:"
+  Sharpen your coding skills in this hackathon.
+baseurl: ""
+url: "https://lupodc.github.io/GitHubEduWorkshop-Jekyll"
+github_username:  lupodc
+baseurl: /GitHubEduWorkshop-Jekyll
