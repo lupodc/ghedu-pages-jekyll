@@ -18,7 +18,7 @@ Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie co
 * Item 3
 * Item 4
 * Item 5
-* Item 6
+* Item 7
 </div>
 </div>
 
